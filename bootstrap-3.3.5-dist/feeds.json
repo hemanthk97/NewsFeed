@@ -1,0 +1,157 @@
+[
+    {
+        "value": [
+            {
+                "source": "Buzzfeed India",
+                "category": "Entertainment",
+                "feed_url": "http://www.buzzfeed.com/tag/india.xml"
+            },
+            {
+                "source": "TechCrunch",
+                "category": "Technology",
+                "feed_url": "http://techcrunch.com/feed/"
+            },
+            {
+                "source": "Reuters",
+                "category": "Top News",
+                "feed_url": "http://feeds.reuters.com/reuters/INtopNews"
+            },
+            {
+                "source": "Times of India",
+                "category": "Top News",
+                "feed_url": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms"
+            },
+            {
+                "source": "Ndtv",
+                "category": "Top News",
+                "feed_url": "http://feeds.feedburner.com/NdtvNews-TopStories"
+            },
+            {
+                "source": "India Today",
+                "category": "Top News",
+                "feed_url": "http://indiatoday.intoday.in/rss/article.jsp?sid=120"
+            },
+            {
+                "source": "YourStory",
+                "category": "Technology",
+                "feed_url": "http://yourstory.com/feed/"
+            },
+            {
+                "source": "Ndtv",
+                "category": "Karnataka",
+                "feed_url": "http://feeds.feedburner.com/News-Karnataka"
+            },
+            {
+                "source": "Times of India",
+                "category": "Karnataka",
+                "feed_url": "http://timesofindia.indiatimes.com/rssfeeds/-2128833038.cms"
+            },
+            {
+                "source": "G News (World)",
+                "category": "World",
+                "feed_url": "http://news.google.com/news?cf=all&hl=en&pz=1&ned=in&topic=w&output=rss"
+            },
+            {
+                "source": "G News (Business)",
+                "category": "Business",
+                "feed_url": "http://news.google.com/news?cf=all&hl=en&pz=1&ned=in&topic=b&output=rss"
+            },
+            {
+                "source": "G News (Tech)",
+                "category": "Technology",
+                "feed_url": "http://news.google.com/news?cf=all&hl=en&pz=1&ned=in&topic=tc&output=rss"
+            },
+            {
+                "source": "Huffington Post",
+                "category": "Entertainment",
+                "feed_url": "http://www.huffingtonpost.com/feeds/verticals/entertainment/index.xml"
+            },
+            {
+                "source": "Huffington Post",
+                "category": "Entertainment",
+                "feed_url": "http://www.huffingtonpost.com/feeds/verticals/entertainment/index.xml"
+            },
+            {
+                "source": "B. Insider",
+                "category": "Business",
+                "feed_url": "http://www.businessinsider.in/rss_section_feeds/21805754.cms"
+            },
+            {
+                "source": "Times of India",
+                "category": "Business",
+                "feed_url": "http://timesofindia.indiatimes.com/rssfeeds/1898055.cms"
+            },
+            {
+                "source": "Ndtv",
+                "category": "Business",
+                "feed_url": "http://feeds.feedburner.com/NDTV-Business"
+            },
+            {
+                "source": "Reuters",
+                "category": "Business",
+                "feed_url": "http://feeds.reuters.com/reuters/INbusinessNews"
+            },
+            {
+                "source": "BBC Sport",
+                "category": "Sport",
+                "feed_url": "http://feeds.bbci.co.uk/sport/0/rss.xml"
+            },
+            {
+                "source": "Reuters",
+                "category": "World",
+                "feed_url": "http://feeds.reuters.com/reuters/INworldNews"
+            },
+            {
+                "source": "Ndtv",
+                "category": "World",
+                "feed_url": "http://feeds.feedburner.com/ndtv/TqgX"
+            },
+            {
+                "source": "Times of India",
+                "category": "World",
+                "feed_url": "http://timesofindia.indiatimes.com/rssfeeds/296589292.cms"
+            },
+            {
+                "source": "India Today",
+                "category": "World",
+                "feed_url": "http://indiatoday.intoday.in/rss/article.jsp?sid=61"
+            },
+            {
+                "source": "India Today",
+                "category": "Nation",
+                "feed_url": "http://indiatoday.intoday.in/rss/article.jsp?sid=36"
+            },
+            {
+                "source": "Ndtv",
+                "category": "Nation",
+                "feed_url": "http://feeds.feedburner.com/ndtv/Lsgd"
+            },
+            {
+                "source": "Times of India",
+                "category": "Nation",
+                "feed_url": "http://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms"
+            },
+            
+            {
+                "source": "BBC World",
+                "category": "World",
+                "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml"
+            },
+            {
+                "source": "Guardian",
+                "category": "Sport",
+                "feed_url": "http://www.theguardian.com/uk/sport/rss"
+            },
+            {
+                "source": "Storypick",
+                "category": "Entertainment",
+                "feed_url": "http://www.storypick.com/feed/"
+            },
+            {
+                "source": "TheVerge",
+                "category": "Technology",
+                "feed_url": "http://www.theverge.com/rss/full.xml"
+            }
+        ]
+    }
+]
